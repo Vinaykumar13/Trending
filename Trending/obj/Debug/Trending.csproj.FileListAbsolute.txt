@@ -1,0 +1,6 @@
+D:\DotNet\MsBuildDemos\Trending\Trending\bin\Debug\Trending.exe.config
+D:\DotNet\MsBuildDemos\Trending\Trending\bin\Debug\Trending.exe
+D:\DotNet\MsBuildDemos\Trending\Trending\bin\Debug\Trending.pdb
+D:\DotNet\MsBuildDemos\Trending\Trending\obj\Debug\Trending.exe
+D:\DotNet\MsBuildDemos\Trending\Trending\obj\Debug\Trending.pdb
+D:\DotNet\MsBuildDemos\Trending\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache

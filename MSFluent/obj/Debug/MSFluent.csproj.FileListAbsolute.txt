@@ -1,0 +1,16 @@
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\MSFluent.dll
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\MSFluent.pdb
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\FluentAssertions.Core.dll
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\FluentAssertions.dll
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\Trending.exe
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\Trending.pdb
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\Trending.exe.config
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\FluentAssertions.pdb
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\FluentAssertions.xml
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\FluentAssertions.Core.pdb
+D:\DotNet\MsBuildDemos\Trending\MSFluent\bin\Debug\FluentAssertions.Core.xml
+D:\DotNet\MsBuildDemos\Trending\MSFluent\obj\Debug\MSFluent.csprojResolveAssemblyReference.cache
+D:\DotNet\MsBuildDemos\Trending\MSFluent\obj\Debug\MSFluent.csproj.CoreCompileInputs.cache
+D:\DotNet\MsBuildDemos\Trending\MSFluent\obj\Debug\MSFluent.dll
+D:\DotNet\MsBuildDemos\Trending\MSFluent\obj\Debug\MSFluent.pdb

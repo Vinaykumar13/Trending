@@ -1,0 +1,10 @@
+D:\DotNet\MsBuildDemos\Trending\MSTest\bin\Debug\MSTest.dll
+D:\DotNet\MsBuildDemos\Trending\MSTest\bin\Debug\MSTest.pdb
+D:\DotNet\MsBuildDemos\Trending\MSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DotNet\MsBuildDemos\Trending\MSTest\bin\Debug\Trending.exe
+D:\DotNet\MsBuildDemos\Trending\MSTest\bin\Debug\Trending.pdb
+D:\DotNet\MsBuildDemos\Trending\MSTest\bin\Debug\Trending.exe.config
+D:\DotNet\MsBuildDemos\Trending\MSTest\obj\Debug\MSTest.csprojResolveAssemblyReference.cache
+D:\DotNet\MsBuildDemos\Trending\MSTest\obj\Debug\MSTest.csproj.CoreCompileInputs.cache
+D:\DotNet\MsBuildDemos\Trending\MSTest\obj\Debug\MSTest.dll
+D:\DotNet\MsBuildDemos\Trending\MSTest\obj\Debug\MSTest.pdb
