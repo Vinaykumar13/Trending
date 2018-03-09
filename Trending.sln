@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTesting", "MSTest\MSTesti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest", "NUnitTest\NUnitTest.csproj", "{1B5E8347-7E11-4E32-84A3-C0FBF0C22852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{3E981077-0AA7-41F9-9AA1-EAB90A387908}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1B5E8347-7E11-4E32-84A3-C0FBF0C22852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5E8347-7E11-4E32-84A3-C0FBF0C22852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5E8347-7E11-4E32-84A3-C0FBF0C22852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E981077-0AA7-41F9-9AA1-EAB90A387908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E981077-0AA7-41F9-9AA1-EAB90A387908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E981077-0AA7-41F9-9AA1-EAB90A387908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E981077-0AA7-41F9-9AA1-EAB90A387908}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
