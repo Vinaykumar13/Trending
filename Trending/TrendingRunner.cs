@@ -6,7 +6,7 @@ namespace Trending
     {
         static void Main(string[] args)
         {
-            int i;
+            //int i;
         // TODO : Needs to Remove, once Done
             Console.Out.WriteLine("This will show what's trending according to {0}"
                                     , "http://www.google.com.au/trends/topcharts" );
@@ -32,7 +32,7 @@ namespace Trending
         /// <returns>A string holding the interest @ index "anInedx"</returns>
         public static string WhatsTrending(int anIndex)
         {
-            int j;
+           // int j;
             string answer;
             switch (anIndex)
             {
